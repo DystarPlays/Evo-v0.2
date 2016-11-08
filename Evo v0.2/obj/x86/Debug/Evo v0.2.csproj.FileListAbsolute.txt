@@ -1,0 +1,50 @@
+S:\Programming\Projects\C#\MonoGame\Evo v0.2\Evo v0.2\bin\Windows\x86\Debug\Evo v0.2.exe
+S:\Programming\Projects\C#\MonoGame\Evo v0.2\Evo v0.2\bin\Windows\x86\Debug\Evo v0.2.pdb
+S:\Programming\Projects\C#\MonoGame\Evo v0.2\Evo v0.2\bin\Windows\x86\Debug\MonoGame.Framework.dll
+S:\Programming\Projects\C#\MonoGame\Evo v0.2\Evo v0.2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+S:\Programming\Projects\C#\MonoGame\Evo v0.2\Evo v0.2\bin\Windows\x86\Debug\SharpDX.dll
+S:\Programming\Projects\C#\MonoGame\Evo v0.2\Evo v0.2\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+S:\Programming\Projects\C#\MonoGame\Evo v0.2\Evo v0.2\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+S:\Programming\Projects\C#\MonoGame\Evo v0.2\Evo v0.2\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+S:\Programming\Projects\C#\MonoGame\Evo v0.2\Evo v0.2\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+S:\Programming\Projects\C#\MonoGame\Evo v0.2\Evo v0.2\bin\Windows\x86\Debug\SharpDX.XInput.dll
+S:\Programming\Projects\C#\MonoGame\Evo v0.2\Evo v0.2\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+S:\Programming\Projects\C#\MonoGame\Evo v0.2\Evo v0.2\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+S:\Programming\Projects\C#\MonoGame\Evo v0.2\Evo v0.2\bin\Windows\x86\Debug\MonoGame.Framework.xml
+S:\Programming\Projects\C#\MonoGame\Evo v0.2\Evo v0.2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+S:\Programming\Projects\C#\MonoGame\Evo v0.2\Evo v0.2\bin\Windows\x86\Debug\SharpDX.xml
+S:\Programming\Projects\C#\MonoGame\Evo v0.2\Evo v0.2\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+S:\Programming\Projects\C#\MonoGame\Evo v0.2\Evo v0.2\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+S:\Programming\Projects\C#\MonoGame\Evo v0.2\Evo v0.2\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+S:\Programming\Projects\C#\MonoGame\Evo v0.2\Evo v0.2\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+S:\Programming\Projects\C#\MonoGame\Evo v0.2\Evo v0.2\bin\Windows\x86\Debug\SharpDX.XInput.xml
+S:\Programming\Projects\C#\MonoGame\Evo v0.2\Evo v0.2\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+S:\Programming\Projects\C#\MonoGame\Evo v0.2\Evo v0.2\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+S:\Programming\Projects\C#\MonoGame\Evo v0.2\Evo v0.2\obj\x86\Debug\Evo v0.2.exe
+S:\Programming\Projects\C#\MonoGame\Evo v0.2\Evo v0.2\obj\x86\Debug\Evo v0.2.pdb
+S:\Programming\Projects\C#\MonoGame\Evo v0.2\Evo v0.2\obj\x86\Debug\Evo v0.2.csprojResolveAssemblyReference.cache
+S:\Programming\Projects\C#\MonoGame\Evo v0.2\Evo\Evo v0.2\obj\x86\Debug\Evo v0.2.exe
+S:\Programming\Projects\C#\MonoGame\Evo v0.2\Evo\Evo v0.2\obj\x86\Debug\Evo v0.2.pdb
+S:\Programming\Projects\C#\MonoGame\Evo v0.2\Evo\Evo v0.2\bin\Windows\x86\Debug\Evo v0.2.exe
+S:\Programming\Projects\C#\MonoGame\Evo v0.2\Evo\Evo v0.2\bin\Windows\x86\Debug\Evo v0.2.pdb
+S:\Programming\Projects\C#\MonoGame\Evo v0.2\Evo\Evo v0.2\bin\Windows\x86\Debug\MonoGame.Framework.dll
+S:\Programming\Projects\C#\MonoGame\Evo v0.2\Evo\Evo v0.2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+S:\Programming\Projects\C#\MonoGame\Evo v0.2\Evo\Evo v0.2\bin\Windows\x86\Debug\SharpDX.dll
+S:\Programming\Projects\C#\MonoGame\Evo v0.2\Evo\Evo v0.2\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+S:\Programming\Projects\C#\MonoGame\Evo v0.2\Evo\Evo v0.2\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+S:\Programming\Projects\C#\MonoGame\Evo v0.2\Evo\Evo v0.2\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+S:\Programming\Projects\C#\MonoGame\Evo v0.2\Evo\Evo v0.2\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+S:\Programming\Projects\C#\MonoGame\Evo v0.2\Evo\Evo v0.2\bin\Windows\x86\Debug\SharpDX.XInput.dll
+S:\Programming\Projects\C#\MonoGame\Evo v0.2\Evo\Evo v0.2\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+S:\Programming\Projects\C#\MonoGame\Evo v0.2\Evo\Evo v0.2\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+S:\Programming\Projects\C#\MonoGame\Evo v0.2\Evo\Evo v0.2\bin\Windows\x86\Debug\MonoGame.Framework.xml
+S:\Programming\Projects\C#\MonoGame\Evo v0.2\Evo\Evo v0.2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+S:\Programming\Projects\C#\MonoGame\Evo v0.2\Evo\Evo v0.2\bin\Windows\x86\Debug\SharpDX.xml
+S:\Programming\Projects\C#\MonoGame\Evo v0.2\Evo\Evo v0.2\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+S:\Programming\Projects\C#\MonoGame\Evo v0.2\Evo\Evo v0.2\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+S:\Programming\Projects\C#\MonoGame\Evo v0.2\Evo\Evo v0.2\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+S:\Programming\Projects\C#\MonoGame\Evo v0.2\Evo\Evo v0.2\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+S:\Programming\Projects\C#\MonoGame\Evo v0.2\Evo\Evo v0.2\bin\Windows\x86\Debug\SharpDX.XInput.xml
+S:\Programming\Projects\C#\MonoGame\Evo v0.2\Evo\Evo v0.2\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+S:\Programming\Projects\C#\MonoGame\Evo v0.2\Evo\Evo v0.2\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+S:\Programming\Projects\C#\MonoGame\Evo v0.2\Evo\Evo v0.2\obj\x86\Debug\Evo v0.2.csprojResolveAssemblyReference.cache
